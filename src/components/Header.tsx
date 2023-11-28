@@ -17,7 +17,7 @@ const Header = () => {
             <AiFillGithub />
           </a>
           <a
-            href="https://vercel.com/dashboard"
+            href="https://vercel.com/elosis"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             {" "}
