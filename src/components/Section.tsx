@@ -9,9 +9,9 @@ const Section = () => {
         </div>
         <div className="paragraph">
           <p>
-            I'm a frontend developer and have been passionate about web
-            development for the past year. Despite not having formal work
-            experience in the field, I have dedicated myself to acquiring a
+            I'm Omer Elaldi who frontend developer and have been passionate
+            about web development for the past year. Despite not having formal
+            work experience in the field, I have dedicated myself to acquiring a
             robust skill set and hands-on expertise. My journey into web
             development began with a focus on HTML, CSS, JavaScript, where I
             developed React apps to learn this framework environment.

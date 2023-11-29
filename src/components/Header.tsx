@@ -1,6 +1,4 @@
 import React from "react";
-import { HiClipboard } from "react-icons/hi2";
-import { BiLogoGmail } from "react-icons/bi";
 import { AiFillGithub } from "react-icons/ai";
 import { RxVercelLogo } from "react-icons/rx";
 
