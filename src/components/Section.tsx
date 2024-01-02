@@ -24,31 +24,31 @@ const Section = () => {
         </div>
         <div className="project-inner">
           <a
-            href="https://vercel.com/elosis/todo-app-ts"
+            href="https://todo-app-ts-bice.vercel.app/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             <p>Todo App</p>
           </a>
           <a
-            href="https://vercel.com/elosis/passaport"
+            href="https://passaport.vercel.app/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             <p>Passaport</p>
           </a>
           <a
-            href="https://vercel.com/elosis/pokemon-ts"
+            href="https://pokemon-ts-beige.vercel.app/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             <p>Pokemon</p>
           </a>
           <a
-            href="https://vercel.com/elosis/pokedex"
+            href="https://pokedex-eight-green-23.vercel.app/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             <p>Pokedex</p>
           </a>
           <a
-            href="https://vercel.com/elosis/routing-ts"
+            href="https://routing-ts.vercel.app/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             {" "}
