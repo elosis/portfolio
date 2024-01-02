@@ -60,12 +60,6 @@ body {
   margin-top: -100px;
 }
 
-.double-icons {
-  display: flex;
-  gap: 30px;
-  margin-right: 23px;
-}
-
 .header-section {
   font-size: 90px;
   font-weight: 200;
